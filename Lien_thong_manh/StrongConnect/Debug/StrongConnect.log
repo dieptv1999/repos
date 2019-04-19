@@ -1,0 +1,6 @@
+﻿  graphB.cpp
+c:\users\phoenix\source\repos\lien_thong_manh\strongconnect\graphb.cpp(9): warning C4101: 'v': unreferenced local variable
+c:\users\phoenix\source\repos\lien_thong_manh\strongconnect\graphb.cpp(9): warning C4101: 'u': unreferenced local variable
+  StrongConnect.cpp
+  Generating Code...
+  StrongConnect.vcxproj -> C:\Users\Phoenix\source\repos\Lien_thong_manh\Debug\StrongConnect.exe

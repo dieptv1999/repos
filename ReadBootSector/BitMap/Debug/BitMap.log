@@ -1,0 +1,10 @@
+﻿  BitMap.cpp
+c:\users\phoenix\source\repos\readbootsector\bitmap\bitmap.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\algorithm(1614): error C2100: illegal indirection
+  c:\users\phoenix\source\repos\readbootsector\bitmap\bitmap.cpp(15): note: see reference to function template instantiation 'void std::replace<int,int>(const _FwdIt,const _FwdIt,const _Ty &,const _Ty &)' being compiled
+          with
+          [
+              _FwdIt=int,
+              _Ty=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\algorithm(1616): error C2100: illegal indirection

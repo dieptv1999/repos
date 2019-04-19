@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Dynamic.cpp
+c:\users\phoenix\source\repos\readbootsector\dynamic\dynamic.cpp(50): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\phoenix\source\repos\readbootsector\dynamic\dynamic.cpp(50): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\phoenix\source\repos\readbootsector\dynamic\dynamic.cpp(50): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\phoenix\source\repos\readbootsector\dynamic\dynamic.cpp(50): note: this argument is used as a buffer size
+c:\users\phoenix\source\repos\readbootsector\dynamic\dynamic.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  list.cpp
+  Generating Code...
+  Dynamic.vcxproj -> C:\Users\Phoenix\source\repos\ReadBootSector\Debug\Dynamic.exe

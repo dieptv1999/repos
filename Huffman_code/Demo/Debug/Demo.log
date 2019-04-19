@@ -1,0 +1,5 @@
+﻿  lib.cpp
+c:\users\phoenix\source\repos\huffman_code\demo\lib.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\phoenix\source\repos\huffman_code\demo\lib.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\phoenix\source\repos\huffman_code\demo\lib.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Demo.vcxproj -> C:\Users\Phoenix\source\repos\Huffman_code\Debug\Huffman_code.exe
