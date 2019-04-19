@@ -1,0 +1,3 @@
+﻿  pro7.cpp
+c:\users\phoenix\source\repos\prufercode\pro7\pro7.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pro7.vcxproj -> C:\Users\Phoenix\source\repos\PruferCode\Debug\pro7.exe

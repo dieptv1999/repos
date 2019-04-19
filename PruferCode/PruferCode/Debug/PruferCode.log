@@ -1,0 +1,3 @@
+﻿  PruferCode.cpp
+c:\users\phoenix\source\repos\prufercode\prufercode\prufercode.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PruferCode.vcxproj -> C:\Users\Phoenix\source\repos\PruferCode\Debug\PruferCode.exe

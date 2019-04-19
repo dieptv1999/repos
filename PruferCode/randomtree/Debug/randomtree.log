@@ -1,0 +1,3 @@
+﻿  randomtree.cpp
+c:\users\phoenix\source\repos\prufercode\randomtree\randomtree.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomtree.vcxproj -> C:\Users\Phoenix\source\repos\PruferCode\Debug\randomtree.exe

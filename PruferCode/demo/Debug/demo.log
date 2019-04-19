@@ -1,0 +1,3 @@
+﻿  demo.cpp
+c:\users\phoenix\source\repos\prufercode\demo\demo.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  demo.vcxproj -> C:\Users\Phoenix\source\repos\PruferCode\Debug\demo.exe
